@@ -1,4 +1,4 @@
-FROM mrchub/gate-frontend-fpm:0.12.2
+FROM mrchub/gate-frontend-fpm:latest
 
 # disable interactive functions
 ENV DEBIAN_FRONTEND noninteractive
